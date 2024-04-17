@@ -1,0 +1,79 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.div-table-clients{
+    display: flex;
+    width: 80%;
+}
+
+.div-table-clients table{
+    border: 1px solid black;
+}
+
+.div-agenda-clinte{
+    background-color: white;
+    padding: 20px 70px;
+
+}
+
+.card{
+    width: 24rem;
+}
+
+.card-img-top{
+    height: 15rem;
+}
+
+.div-cards{
+    width: 900px;
+}
+
+.p-sobre{
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.div-sobre{
+     width: 900px; 
+}
+
+.div-p-sobre{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+
+
+.p-small{
+    font-size: 0.8rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p-ctt{
+    font-size: 1.2rem;
+}
+
+.icon-ctt{
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: black;
+}
+
+.a-ctt{
+    text-decoration: none;
+    color: black;
+}
+.div-imgs-servico{
+    width: 900px;
+}
+
+.img-servico{
+    width: 17rem;
+}

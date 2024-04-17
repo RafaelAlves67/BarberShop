@@ -1,0 +1,21 @@
+.div-agenda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.div-table-clients{
+    display: flex;
+    width: 80%;
+}
+
+.div-table-clients table{
+    border: 1px solid black;
+}
+
+.div-agenda-clinte{
+    background-color: white;
+    padding: 20px 70px;
+
+}
